@@ -1,0 +1,35 @@
+.conan{
+    background-color: blueviolet;
+}
+.conan2{
+    background-color: pink;
+}
+.conan2{
+    background-color: green;
+}
+a.loklink{
+    padding: 0px 30px;
+    margin-left:10px;
+    border-radius: 50px;
+    color:cornflowerblue;
+}
+a.loklink:hover{
+    background-color: cornflowerblue;
+    color:white;
+}
+div.lokdivgrey{
+    background-color: rgb(22,233,254);
+    padding:30px;
+    border-radius: 10px;
+    border: 1px solid cornflowerblue;
+    width: 80%;
+    margin: 10px auto;
+
+}
+h4.loksmallh4{
+    font-size: 18px;
+    color:rgb(47,84,153);
+}
+section#about.resume-section{
+    color:#12e92c;
+}
