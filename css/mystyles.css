@@ -18,7 +18,7 @@ a.loklink:hover{
     color:white;
 }
 div.lokdivgrey{
-    background-color: rgb(#5b077f);
+    background-color: rgb(91, 7, 127 );
     padding:30px;
     border-radius: 10px;
     border: 2px solid rgb(205, 7, 245);
@@ -36,4 +36,9 @@ section#about.resume-section{
 .lokint{
     color: rgb(12, 221, 106);
     font-weight: 900;
+}
+.lokbg{
+    background-image: url("../assets/img/bg2.png");
+    background-size: cover ;
+    background-repeat: no-repeat;
 }
