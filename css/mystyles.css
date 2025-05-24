@@ -21,8 +21,8 @@ div.lokdivgrey{
     background-color: rgb(91, 7, 127 );
     padding:30px;
     border-radius: 10px;
-    border: 2px solid rgb(205, 7, 245);
-    width: 60%;
+    border: 1px solid rgb(236, 16, 248);
+    width: 80%;
     margin: 10px auto;
 
 }
@@ -32,13 +32,4 @@ h4.loksmallh4{
 }
 section#about.resume-section{
     color:#12e92c;
-}
-.lokint{
-    color: rgb(12, 221, 106);
-    font-weight: 900;
-}
-.lokbg{
-    background-image: url("../assets/img/bg2.png");
-    background-size: cover ;
-    background-repeat: no-repeat;
 }
