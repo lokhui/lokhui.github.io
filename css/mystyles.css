@@ -33,3 +33,11 @@ h4.loksmallh4{
 section#about.resume-section{
     color:#12e92c;
 }
+button {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
