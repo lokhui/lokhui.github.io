@@ -14,7 +14,7 @@ a.loklink{
     color:cornflowerblue;
 }
 a.loklink:hover{
-    background-color: cornflowerblue;
+    background-color: rgb(186, 6, 240);
     color:white;
 }
 div.lokdivgrey{
@@ -42,4 +42,17 @@ section#about.resume-section{
 h5.loksmallh5{
     font-size: 15px;
     color:rgb(45, 233, 146);
+}
+.lok-white{
+    color: rgb(216, 208, 208); 
+}
+.lok-green{
+    color: rgb(3, 58, 35);
+}
+.lok-black{
+    color: rgb(0, 0, 0);
+}
+.lokcolbg{
+    background-color: rgb(68, 63, 63);
+
 }
