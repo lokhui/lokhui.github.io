@@ -8,9 +8,9 @@
     background-color: green;
 }
 a.loklink{
-    padding: 0px 30px;
+    padding: 0px 20px;
     margin-left:10px;
-    border-radius: 50px;
+    border-radius: 30px;
     color:cornflowerblue;
 }
 a.loklink:hover{
@@ -21,7 +21,7 @@ div.lokdivgrey{
     background-color: rgb(91, 7, 127 );
     padding:30px;
     border-radius: 10px;
-    border: 1px solid rgb(7, 253, 36);
+    border: 1px solid #07fd24;
     width: 80%;
     margin: 10px auto;
 
@@ -53,7 +53,7 @@ h5.loksmallh5{
     color: rgb(0, 0, 0);
 }
 .blackbg{
-    background-color: #525050;
+    background-color: #525151;
 }
 .lokserif{
      font-family: "Noto Serif TC", serif;
