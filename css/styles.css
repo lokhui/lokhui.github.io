@@ -4798,7 +4798,7 @@ textarea.form-control-lg {
   --bs-list-group-disabled-color: #6c757d;
   --bs-list-group-disabled-bg: #00ed27;
   --bs-list-group-active-color: #00ed27;
-  --bs-list-group-active-bg: #9f0ae0;
+  --bs-list-group-active-bg: #af21ed;
   --bs-list-group-active-border-color: #bd5d38;
   display: flex;
   flex-direction: column;
