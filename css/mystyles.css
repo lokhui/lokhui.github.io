@@ -28,7 +28,7 @@ div.lokdivgrey{
 }
 h4.loksmallh4{
     font-size: 18px;
-    color:rgb(47,84,153);
+    color:rgb(47, 231, 173);
 }
 section#about.resume-section{
     color:#12e92c;
@@ -38,4 +38,8 @@ section#about.resume-section{
     background-size: cover ;
     background-repeat: no-repeat;
 
+}
+h5.loksmallh5{
+    font-size: 15px;
+    color:rgb(45, 233, 146);
 }
