@@ -41,3 +41,11 @@ button {
     border: none;
     cursor: pointer;
 }
+.jeffserif{
+     font-family: "Noto Serif TC", serif;
+}
+.lokbg{
+    background-image: url("../assets/img/bg2.png");
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
