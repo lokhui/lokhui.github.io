@@ -52,7 +52,6 @@ h5.loksmallh5{
 .lok-black{
     color: rgb(0, 0, 0);
 }
-.lokcolbg{
-    background-color: rgb(68, 63, 63);
-
+.blackbg{
+    background-color: #525050;
 }
