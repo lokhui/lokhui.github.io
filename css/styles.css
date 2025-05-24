@@ -4783,21 +4783,21 @@ textarea.form-control-lg {
 }
 
 .list-group {
-  --bs-list-group-color: #12e92c;
+  --bs-list-group-color: #1aa22a;
   --bs-list-group-bg: #525050;
-  --bs-list-group-border-color: rgb(152, 0, 199);
-  --bs-list-group-border-width: 1px;
+  --bs-list-group-border-color: #00ed27;
+  --bs-list-group-border-width: 2px;
   --bs-list-group-border-radius: 0.375rem;
   --bs-list-group-item-padding-x: 1rem;
   --bs-list-group-item-padding-y: 0.5rem;
-  --bs-list-group-action-color: #495057;
-  --bs-list-group-action-hover-color: #495057;
+  --bs-list-group-action-color: #00ed27;
+  --bs-list-group-action-hover-color: #00ed27;
   --bs-list-group-action-hover-bg: #f8f9fa;
   --bs-list-group-action-active-color: #212529;
   --bs-list-group-action-active-bg: #e9ecef;
   --bs-list-group-disabled-color: #6c757d;
-  --bs-list-group-disabled-bg: #fff;
-  --bs-list-group-active-color: #fff;
+  --bs-list-group-disabled-bg: #00ed27;
+  --bs-list-group-active-color: #00ed27;
   --bs-list-group-active-bg: #bd5d38;
   --bs-list-group-active-border-color: #bd5d38;
   display: flex;
