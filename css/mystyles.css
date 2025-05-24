@@ -18,10 +18,10 @@ a.loklink:hover{
     color:white;
 }
 div.lokdivgrey{
-    background-color: rgb(91, 7, 127 );
+    background-color:rgb(91, 7, 127 );
     padding:30px;
     border-radius: 10px;
-    border: 1px solid rgb(236, 16, 248);
+    border: 1px solid cornflowerblue;
     width: 80%;
     margin: 10px auto;
 
@@ -32,20 +32,4 @@ h4.loksmallh4{
 }
 section#about.resume-section{
     color:#12e92c;
-}
-button {
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
-    padding: 10px 20px;
-    border: none;
-    cursor: pointer;
-}
-.jeffserif{
-     font-family: "Noto Serif TC", serif;
-}
-.lokbg{
-    background-image: url("../assets/img/bg2.png");
-    background-size: cover ;
-    background-repeat: no-repeat;
 }
