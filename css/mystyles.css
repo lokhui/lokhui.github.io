@@ -18,7 +18,7 @@ a.loklink:hover{
     color:white;
 }
 div.lokdivgrey{
-    background-color:rgb(91, 7, 127 );
+    background-color: rgb(22,233,254);
     padding:30px;
     border-radius: 10px;
     border: 1px solid cornflowerblue;
@@ -32,4 +32,10 @@ h4.loksmallh4{
 }
 section#about.resume-section{
     color:#12e92c;
+}
+.lokbgk{
+    background-image: url("../assets/img/bg2.png");
+    background-size: cover ;
+    background-repeat: no-repeat;
+
 }
