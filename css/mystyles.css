@@ -18,10 +18,10 @@ a.loklink:hover{
     color:white;
 }
 div.lokdivgrey{
-    background-color: rgb(22,233,254);
+    background-color: rgb(91, 7, 127 );
     padding:30px;
     border-radius: 10px;
-    border: 1px solid cornflowerblue;
+    border: 1px solid rgb(7, 253, 36);
     width: 80%;
     margin: 10px auto;
 
