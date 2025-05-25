@@ -34,7 +34,7 @@ h4.loksmallh4{
 section#about.resume-section{
     color:#12e92c;
 }
-.lokbg{
+.lokbg2{
     background-image: url("../assets/img/bg2.png");
     background-size: cover ;
     background-repeat: no-repeat;
@@ -59,7 +59,7 @@ h5.loksmallh5{
 .lokserif{
      font-family: "Noto Serif TC", serif;
 }
-.lokbg{
+.lokbg1{
     background-image: url("../assets/img/bg1.jpg");
     background-size: cover ;
     background-repeat: no-repeat;
@@ -71,4 +71,10 @@ h5.loksmallh5{
     object-fit: cover;
     margin: 10px 5px;
     border-radius: 10px;
+}
+.lokbg3{
+    background-image: url("../assets/img/bgs.jpg");
+    background-size: cover ;
+    background-repeat: no-repeat;
+
 }
