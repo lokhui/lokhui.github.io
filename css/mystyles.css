@@ -29,7 +29,7 @@ div.lokdivgrey{
 }
 h4.loksmallh4{
     font-size: 18px;
-    color:rgb(47, 231, 173);
+    color:rgb(0, 134, 11);
 }
 section#about.resume-section{
     color:#12e92c;
@@ -42,7 +42,7 @@ section#about.resume-section{
 }
 h5.loksmallh5{
     font-size: 15px;
-    color:rgb(45, 233, 146);
+    color:rgb(1, 255, 56);
 }
 .lok-white{
     color: rgb(216, 208, 208); 
@@ -98,8 +98,8 @@ button {
     padding: 0 20px;
     font-size: 1rem;
     text-align: center;
-    color: #af06f1;
-    text-shadow: 1px 1px 1px #ffffff;
+    color: #e626ff;
+    text-shadow: 1px 1px 1px #000;
     border-radius: 10px;
     background-color: rgb(34, 248, 6);
     background-image: linear-gradient(
@@ -110,5 +110,11 @@ button {
     );
     box-shadow:
       inset 2px 2px 3px rgba(255, 255, 255, 0.6),
-      inset -2px -2px 3px rgba(255, 255, 255, 0.6);
+      inset -2px -2px 3px rgba(0, 0, 0, 0.6);
   }
+.loktest{
+    color: rgb(184, 3, 255);
+}
+.lok-hover{
+    color: rgb(184, 3, 255);
+}
