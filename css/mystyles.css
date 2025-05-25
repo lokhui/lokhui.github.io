@@ -48,7 +48,7 @@ h5.loksmallh5{
     color: rgb(216, 208, 208); 
 }
 .lok-green{
-    color: rgb(3, 58, 35);
+    color: rgb(21, 241, 69);
 }
 .lok-black{
     color: rgb(0, 0, 0);
@@ -77,4 +77,7 @@ h5.loksmallh5{
     background-size: cover ;
     background-repeat: no-repeat;
 
+}
+.lok-pe{
+    color: rgb(234, 3, 255);
 }
