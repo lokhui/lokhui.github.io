@@ -21,10 +21,10 @@ a.loklink:hover{
 div.lokdivgrey{
     background-color: rgb(91, 7, 127 );
     padding:30px;
-    border-radius: 10px;
+    border-radius: 20px;
     border: 1px solid #07fd24;
     width: 80%;
-    margin: 10px auto;
+    margin: 20px auto;
 
 }
 h4.loksmallh4{
