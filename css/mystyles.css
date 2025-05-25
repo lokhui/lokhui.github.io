@@ -19,7 +19,7 @@ a.loklink:hover{
     color:white;
 }
 div.lokdivgrey{
-    background-color: rgb(91, 7, 127 );
+    background-color: #5b077f;
     padding:30px;
     border-radius: 20px;
     border: 1px solid #07fd24;
@@ -112,9 +112,6 @@ button {
       inset 2px 2px 3px rgba(255, 255, 255, 0.6),
       inset -2px -2px 3px rgba(0, 0, 0, 0.6);
   }
-.loktest{
-    color: rgb(184, 3, 255);
-}
-.lok-hover{
-    background-color: rgb(184, 3, 255);
+.pebg{
+    background-color: #5b077f;
 }
