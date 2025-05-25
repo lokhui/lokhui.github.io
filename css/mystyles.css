@@ -59,3 +59,16 @@ h5.loksmallh5{
 .lokserif{
      font-family: "Noto Serif TC", serif;
 }
+.lokbg{
+    background-image: url("../assets/img/bg1.jpg");
+    background-size: cover ;
+    background-repeat: no-repeat;
+
+}
+.lokcrop{
+    height:320px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
