@@ -81,3 +81,34 @@ h5.loksmallh5{
 .lok-pe{
     color: rgb(234, 3, 255);
 }
+button {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+.lokcenter{
+    text-align: center;
+}
+ .styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #af06f1;
+    text-shadow: 1px 1px 1px #ffffff;
+    border-radius: 10px;
+    background-color: rgb(34, 248, 6);
+    background-image: linear-gradient(
+      to top left,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.2) 30%,
+      rgba(0, 0, 0, 0)
+    );
+    box-shadow:
+      inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+      inset -2px -2px 3px rgba(255, 255, 255, 0.6);
+  }
