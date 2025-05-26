@@ -118,7 +118,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   line-height: 1.2;
-  color: #343a40;
+  color: #710380;
 }
 
 h1, .h1 {
@@ -1747,7 +1747,7 @@ progress {
   --bs-table-striped-color: var(--bs-body-color);
   --bs-table-striped-bg: rgb(79, 1, 99);
   --bs-table-active-color: rgb(0, 255, 64);
-  --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+  --bs-table-active-bg: rgb(0, 255, 64);
   --bs-table-hover-color: rgb(0, 75, 16);
   --bs-table-hover-bg: rgb(247, 0, 255);
   width: 100%;
@@ -4164,8 +4164,8 @@ textarea.form-control-lg {
   --bs-card-cap-bg: rgba(0, 0, 0, 0.03);
   --bs-card-cap-color: ;
   --bs-card-height: ;
-  --bs-card-color: ;
-  --bs-card-bg: #fff;
+  --bs-card-color:#rgb(185, 26, 185)
+  --bs-card-bg: #013818;
   --bs-card-img-overlay-padding: 1rem;
   --bs-card-group-margin: 0.75rem;
   position: relative;
@@ -8093,7 +8093,7 @@ textarea.form-control-lg {
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: #6c757d !important;
+  color: #bb43c8 !important;
 }
 
 .text-black-50 {
