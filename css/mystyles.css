@@ -121,3 +121,6 @@ button {
 .lok-dgreen{
     color: rgb(1, 49, 12);
 }
+.lokcenter {
+    text-align: center;
+}
