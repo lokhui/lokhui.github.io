@@ -66,7 +66,7 @@ h5.loksmallh5{
 
 }
 .lokcrop{
-    height:320px;
+    height:500px;
     overflow: hidden;
     object-fit: cover;
     margin: 10px 5px;
