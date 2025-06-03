@@ -95,7 +95,7 @@ button {
  .styled {
     border: 0;
     line-height: 3.5;
-    padding: 0 25px;
+    padding: 0 20px;
     font-size: 1.3rem;
     text-align: center;
     color: #e626ff;
@@ -126,5 +126,5 @@ button {
 }
 .lok-pe2{
     color: rgb(234, 3, 255);
-    font-size: 15px;
+    font-size: 25px;
 }
